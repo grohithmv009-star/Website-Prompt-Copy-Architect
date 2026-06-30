@@ -1,0 +1,6 @@
+{
+  "name": "Website Prompt & Copy Architect",
+  "description": "An interactive tool to generate website copy, layout structures, and frontend code prompts tailored for freelancers and developers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
